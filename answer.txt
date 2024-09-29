@@ -1,0 +1,4 @@
+1.What happens if users choose “Cancel”? 
+hộp thoại sẽ đóng lại và chương trình kết thúc.
+2.How to customize the options to users, e.g. only two options: “Yes” and “No”, OR “I do” and “I don’t”?
+- Nếu nhấn vào "Cancel" chương trình sẽ trả về kết quả "No" nghĩa là chương trình sẽ chỉ trả về "Yes" nếu bạn nhấn "Yes" còn tất cả lựa chọn còn lại chương trình đều trả về "No"
